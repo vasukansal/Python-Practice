@@ -9,8 +9,8 @@ if(4<=hours<=11 and minute<=59 and seconds<=59):
 elif(12<=hours<=16 and minute<=59 and seconds<=59):
     print("Good Afternoon!! :)")
 
-elif(17<=hours<=21 and minutes<=59 and seconds<=59):
-    print("Goog Evening!! :)")
+elif(17<=hours<=21 and minute<=59 and seconds<=59):
+    print("Good Evening!! :)")
 
-elif(22<=hours<=3 and minutes<=59 and seconds<=59):
+elif(22<=hours<=3 and minute<=59 and seconds<=59):
     print("Good Noght!! :)")
